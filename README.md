@@ -1,4 +1,4 @@
-#  HDB Data Engineering Project (Singapore)
+#  HDB Data Engineering Project 
 
 ## Overview
 This project demonstrates an end-to-end data engineering pipeline using publicly available datasets from data.gov.sg.
